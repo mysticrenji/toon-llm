@@ -67,3 +67,6 @@ To help me refine this further, could you tell me:
 *   **What resolution and refresh rate are you planning to use?** (e.g., 1440p 144Hz, 1080p 60Hz)
 *   **What games do you plan to play?** (e.g., Cyberpunk 2077, Fortnite, etc.)
 ```
+
+## References
+- https://github.com/toon-format/toon-python
